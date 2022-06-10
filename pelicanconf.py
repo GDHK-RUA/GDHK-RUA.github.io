@@ -24,7 +24,6 @@ LINKS = (('Home', '/'),
 SOCIAL = (('Message Board', '/pages/message-board.html'),
           ('Search', 'https://www.bing.com/search?q=site%3Agdhk-rua.github.io'),
           ('Contact Admin', 'mailto:dh.zhou@siat.ac.cn'),
-          # ('Linkedin', 'https://www.linkedin.com/in/%E5%86%AC%E8%B1%AA-%E5%91%A8-663173212/'),
           ('GitHub Repo', 'https://github.com/GDHK-RUA/gdhk-rua.github.io'),)
 
 # 主题
