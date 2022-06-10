@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = 'Correr Zhou'
-SITENAME = "Correr's Blog"
+AUTHOR = 'GDHK-RUA'
+SITENAME = "GDHK-RUA飞跃计划"
 SITEURL = ''
 PATH = 'content'
 TIMEZONE = 'Asia/Shanghai'
@@ -19,13 +19,13 @@ AUTHOR_FEED_RSS = None
 # 链接与媒体
 LINKS = (('Home', '/'),
          ('Archives', '/archives.html'),
-         ('Works', '/pages/works.html'),
-         ('About me', '/pages/about-me.html'),)
+         ('Instructions', '/pages/instructions.html'),
+         ('About', '/pages/about-me.html'),)
 SOCIAL = (('Message Board', '/pages/message-board.html'),
-          ('Search', 'https://www.bing.com/search?q=site%3Acorrer-zhou.github.io'),
-          ('E-mail', 'mailto:dh.zhou@siat.ac.cn'),
-          ('Linkedin', 'https://www.linkedin.com/in/%E5%86%AC%E8%B1%AA-%E5%91%A8-663173212/'),
-          ('Github', 'https://github.com/Correr-Zhou'),)
+          ('Search', 'https://www.bing.com/search?q=site%3Agdhk-rua.github.io'),
+          ('Contact Admin', 'mailto:dh.zhou@siat.ac.cn'),
+          # ('Linkedin', 'https://www.linkedin.com/in/%E5%86%AC%E8%B1%AA-%E5%91%A8-663173212/'),
+          ('GitHub Repo', 'https://github.com/GDHK-RUA/gdhk-rua.github.io'),)
 
 # 主题
 THEME = 'themes/voce/'
